@@ -1,5 +1,4 @@
-# ☁️ Guna Sekhar Vintha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**`Building Models_Commit_Push_Cloud`**    
+# 👨🏻‍💻 Guna Sekhar Vintha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   
 
 ![](https://komarev.com/ghpvc/?username=vinthagunasekhar)
 
@@ -8,11 +7,18 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/_Gunaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_gunaa_v/)
 
-I am a graduate student pursuing a Master of Engineering in Systems and Technology at [McMaster University](https://www.mcmaster.ca). My interests are broadly in cloud computing, deep learning in computer vision, natural language processing, systems and databases, and SAP S/4 Security. I'm currently learning about [TensorFlow](https://www.tensorflow.org) library and their usage in deep learning, and preparing for my [Azure DP-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/) certification.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;Curious+and+has+a+bias+for+Action;I+do+speak+non-tech+stuff!)](https://git.io/typing-svg)
 
-My previous work experience includes a role as an Cyber, Risk & Regulatory (CRR)- SAP Security Consultant at [PwC](https://www.pwc.com/gx/en.html) for 2 yrs(2021-23). This role mainly involved ITGC SOX controls testing, SU25 system upgrades, and updating based on requirements. Additionally, I orchestrated these roles using the Charm tool across the systems landscape.
+Let me set the records straight. Novak Djokovic is the GOAT and I will not hear otherwise! 
 
-Reach out to me via [LinkedIn DM](https://www.linkedin.com/in/gunasekharvintha/) or Personal ✉️: vinthagunasekhar@gmail.com
+Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+* 👨🏻‍🎓 I am currently a graduate student at <a href="https://www.mcmaster.ca">McMaster University</a>, specializing in Machine learning, deep learning and also cloud within the Systems and Technology program.
+* 🪡 Every weekend, I debug on my personal project 'Project_Fire,' and I dig deep into SAP S/4 HANA Cloud and Security.
+* 🎾 I love Grand Slam tournaments, and one of my bucket list items is to watch all the Grand Slam finals in person.
+* ☁️ Building products and facing scalability issues can be a big headache. However, never underestimate the power of the cloud.
+* 😄 Pronouns: He/him
+* 🤯 A strange fact about me: You can't get away from Twitter stuff, tennis, movies, and web series when you're with me.
 
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vinthagunasekhar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
