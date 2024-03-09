@@ -1,5 +1,7 @@
 # ☁️ Guna Sekhar Vintha <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**`Building Models_Commit_Push_Cloud`**
+**`Building Models_Commit_Push_Cloud`**    
+
+![](https://komarev.com/ghpvc/?username=vinthagunasekhar)
 
 I am a graduate student pursuing a Master of Engineering in Systems and Technology at [McMaster University](https://www.mcmaster.ca). My interests are broadly in cloud computing, deep learning in computer vision, natural language processing, systems and databases, and SAP S/4 Security. I'm currently learning about [TensorFlow](https://www.tensorflow.org) library and their usage in deep learning, and preparing for my [Azure DP-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/) certification.
 
