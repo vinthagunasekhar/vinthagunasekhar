@@ -3,6 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=vinthagunasekhar)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekharvintha/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/_Gunaa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_gunaa_v/)
+
 I am a graduate student pursuing a Master of Engineering in Systems and Technology at [McMaster University](https://www.mcmaster.ca). My interests are broadly in cloud computing, deep learning in computer vision, natural language processing, systems and databases, and SAP S/4 Security. I'm currently learning about [TensorFlow](https://www.tensorflow.org) library and their usage in deep learning, and preparing for my [Azure DP-900](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/) certification.
 
 My previous work experience includes a role as an Cyber, Risk & Regulatory (CRR)- SAP Security Consultant at [PwC](https://www.pwc.com/gx/en.html) for 2 yrs(2021-23). This role mainly involved ITGC SOX controls testing, SU25 system upgrades, and updating based on requirements. Additionally, I orchestrated these roles using the Charm tool across the systems landscape.
