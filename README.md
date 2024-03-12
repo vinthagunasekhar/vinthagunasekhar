@@ -15,7 +15,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 * 👨🏻‍🎓 I am currently a graduate student at <a href="https://www.mcmaster.ca">McMaster University</a>, specializing in Machine learning, deep learning and also cloud within the Systems and Technology program.
 * 🪡 Every weekend, I debug on my personal project 'Project_Fire,' and I dig deep into SAP S/4 HANA Cloud and Security.
-* 🎾 I love Grand Slam tournaments, and one of my bucket list items is to watch all the Grand Slam finals in person.
+* 🎾 I love Grand Slam tournaments (ofcourse tennis too), and one of my bucket list items is to watch all the Grand Slam finals in person.
 * ☁️ Building products and facing scalability issues can be a big headache. However, never underestimate the power of the cloud.
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: You can't get away from Twitter stuff, tennis, movies, and web series when you're with me.
