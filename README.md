@@ -20,6 +20,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 * 😄 Pronouns: He/him
 * 🤯 A strange fact about me: You can't get away from Twitter stuff, tennis, movies, and web series when you're with me.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vinthagunasekhar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/vinthagunasekhar?tab=repositories&sort=stargazers">
