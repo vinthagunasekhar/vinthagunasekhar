@@ -14,7 +14,7 @@ Let me set the records straight. Novak Djokovic is the GOAT and I will not hear 
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
 
 * 👨🏻‍🎓 I am currently a graduate student at <a href="https://www.mcmaster.ca">McMaster University</a>, specializing in Machine learning, deep learning and also cloud within the Systems and Technology program.
-* 🪡 Every weekend, I debug on my personal project 'Project_Fire,' and I dig deep into SAP S/4 HANA Cloud,Security and deep learning topics.
+* 🪡 Every weekend, I debug my personal Gen-AI Projects and I dig deep into API Design, LLM's and deep learning topics.
 * 🎾 I love Grand Slam tournaments (ofcourse tennis too), and one of my bucket list items is to watch all the Grand Slam finals in person.
 * ☁️ Building products and facing scalability issues can be a big headache. However, never underestimate the power of the cloud.
 * 😄 Pronouns: He/him
@@ -32,6 +32,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ## 📜 Certifications
   * [Google's Associate Cloud Engineer](https://google.accredible.com/d2263fc3-239c-4ed2-a3ab-2d9866441538?_gl=1*5qt6b7*_ga*ODIwMDAwNzc2LjE3MDMyMjE1Mzg.*_ga_FSDJZHHBH0*MTcwMzIyMTUzNy4xLjEuMTcwMzIyMTU1NS4wLjAuMA..) : Nov 2022- Nov 2025
+  * [Azure Data Scientist Associate](https://learn.microsoft.com/api/credentials/share/en-us/GunaSekharVintha-3911/52E9CBB002DC24C6?sharingId=99A15CB424BB38DD): June 2024 - June 2025
   * [GitHub Universe 2023 Cloud Skills Challenge](https://learn.microsoft.com/en-us/users/gunasekharvintha-3911/achievements/hyefdjr8) : Dec 2023
   * [Microsoft Learn AI Skill Challenge](https://www.linkedin.com/posts/gunasekharvintha_microsoft-ai-skills-challenge-august-2023-activity-7092906271456067584-2ekW?utm_source=share&utm_medium=member_desktop) : Focused in MLOps, Aug 2023
   * [Blockchain and it's Applications by IIT Kharagpur, NPTEL](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL22CS44S1353196802087047) : May 2022
@@ -47,5 +48,5 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 
 
-Last Updated : Mar 14, 2024.
+Last Updated : Jul 18, 2024.
 
