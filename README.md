@@ -28,7 +28,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
    </p>
 
 ## 🔧 Technologies
-![skills](https://skillicons.dev/icons?i=html,css,mysql,mogodb,spring,springboot,testng,playwright,java,py,aws,gcp,azure,tensorflow,pytorch,sklearn,md,latex,git,github,jenkins&theme=light)
+![skills](https://skillicons.dev/icons?i=py,java,html,css,js,mysql,postgres,mongodb,spring,fastapi,postman,maven,aws,gcp,azure,tensorflow,pytorch,sklearn,ai,git,github,jenkins&theme=light)
 
 ## 📜 Certifications
   * [Google's Associate Cloud Engineer](https://google.accredible.com/d2263fc3-239c-4ed2-a3ab-2d9866441538?_gl=1*5qt6b7*_ga*ODIwMDAwNzc2LjE3MDMyMjE1Mzg.*_ga_FSDJZHHBH0*MTcwMzIyMTUzNy4xLjEuMTcwMzIyMTU1NS4wLjAuMA..) : Nov 2022- Nov 2025
